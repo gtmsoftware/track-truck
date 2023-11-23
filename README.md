@@ -1,2 +1,6 @@
 # track-truck
 Track-Truck- Track Your Commercial Vehicle with Effortless Efficiency.
+
+"Track-Truck, आपके वाणिज्यिक वाहनों का विश्वासी GPS संगी यात्रा के एक नए युग में प्रवृत्त होता है। Track-Truck ने कटिंग-एज तकनीक को सुरक्षितता के साथ मिलाकर सहजता से मिश्रित किया है। वास्तविक समय पर ट्रैकिंग के साथ, मार्गों को अनुकूलित करें और अपनी मूल्यवान संपत्ति की सुरक्षा सुनिश्चित करें। सड़क की गतिविधियों की चुनौतियों के लिए तैयार, Track-Truck व्यापारों को सूचना के साथ सफलता प्रदान करता है। सटीकता, सुरक्षा और अद्वितीय अनुसंधानों के साथ अपने व्यापार को ऊँचाईयों तक ले जाएं - चुनें Track-Truck, जहां नवाचार सड़क से मिलता है।"
+
+"Embark on a new era of fleet management with Track-Truck, your trusted GPS companion for commercial vehicles. Navigate efficiency and control like never before as Track-Truck seamlessly blends cutting-edge technology with reliability. Stay ahead of the curve with real-time tracking, optimizing routes, and ensuring the security of your valuable assets. Tailored for the dynamic demands of the road, Track-Truck empowers businesses to drive success with precision, safety, and unparalleled insights. Elevate your fleet management experience — choose Track-Truck, where innovation meets the open road.
