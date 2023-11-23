@@ -1,0 +1,26 @@
+{
+  "name": "track-truck",
+  "version": "0.0.1",
+  "description": "Embark on a new era of fleet management with Track-Truck, your trusted GPS companion for commercial vehicles. Navigate efficiency and control like never before as Track-Truck seamlessly blends cutting-edge technology with reliability. Stay ahead of the curve with real-time tracking, optimizing routes, and ensuring the security of your valuable assets. Tailored for the dynamic demands of the road, Track-Truck empowers businesses to drive success with precision, safety, and unparalleled insights. Elevate your fleet management experience — choose Track-Truck, where innovation meets the open road",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankurdotcom/track-truck.git"
+  },
+  "keywords": [
+    "AI",
+    "nodejs",
+    "Vehicle",
+    "Tracking",
+    "Transport"
+  ],
+  "author": "",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ankurdotcom/track-truck/issues"
+  },
+  "homepage": "https://github.com/ankurdotcom/track-truck#readme"
+}
